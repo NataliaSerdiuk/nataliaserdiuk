@@ -1,5 +1,5 @@
 
-![Black and White Abstract Email Header2.png](https://github.com/NataliaSerdiuk/nataliaserdiuk/blob/main/Black%20and%20White%20Abstract%20Email%20Header2.png)
+![Black and White Abstract Email Header3.png](..%2F..%2F..%2FDesktop%2FGit%2Fnataliaserdiuk%2FBlack%20and%20White%20Abstract%20Email%20Header3.png)
 
 <!--
 **NataliaSerdiuk/nataliaserdiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
