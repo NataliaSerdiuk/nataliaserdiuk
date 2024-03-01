@@ -1,4 +1,5 @@
-![Black Yellow Marketing Expert Email Header.png](..%2F..%2F..%2FDesktop%2FGit%2Fnataliaserdiuk%2FBlack%20Yellow%20Marketing%20Expert%20Email%20Header.png)![Black and White Abstract Email Header2.png](..%2F..%2F..%2FDesktop%2FGit%2Fnataliaserdiuk%2FBlack%20and%20White%20Abstract%20Email%20Header2.png)
+![Black Yellow Marketing Expert Email Header.png](..%2F..%2F..%2FDesktop%2FGit%2Fnataliaserdiuk%2FBlack%20Yellow%20Marketing%20Expert%20Email%20Header.png)
+![Black and White Abstract Email Header2.png](..%2F..%2F..%2FDesktop%2FGit%2Fnataliaserdiuk%2FBlack%20and%20White%20Abstract%20Email%20Header2.png)
 
 <!--
 **NataliaSerdiuk/nataliaserdiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
