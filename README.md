@@ -4,4 +4,4 @@
 <!--
 **NataliaSerdiuk/nataliaserdiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![Static Badge](https://img.shields.io/badge/:badgeContent?logo=%2326A5E4&logoColor=blue)
+![Flutter](https://img.shields.io/badge/:badgeContent?logo=%2326A5E4&logoColor=blue)
